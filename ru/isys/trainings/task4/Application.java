@@ -1,7 +1,7 @@
 package ru.isys.trainings.task4;
 
 import ru.isys.trainings.task4.figure.triangle.Triangle;
-import ru.isys.trainings.task4.rectangle.Rectangle;
+import ru.isys.trainings.task4.figure.rectangle.Rectangle;
 
 import java.util.*;
 

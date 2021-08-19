@@ -1,10 +1,7 @@
 package ru.isys.trainings.task4.figure.triangle;
 
 import ru.isys.trainings.task4.figure.Figure;
-import ru.isys.trainings.task4.rectangle.Rectangle;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 
 import static java.lang.Math.sin;

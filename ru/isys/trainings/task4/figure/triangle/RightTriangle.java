@@ -1,7 +1,5 @@
 package ru.isys.trainings.task4.figure.triangle;
 
-import ru.isys.trainings.task4.rectangle.Rectangle;
-
 public class RightTriangle extends Triangle {
 
     public RightTriangle(int l1, int l2 ) {

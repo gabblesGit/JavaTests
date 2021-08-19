@@ -1,11 +1,6 @@
-package ru.isys.trainings.task4.rectangle;
+package ru.isys.trainings.task4.figure.rectangle;
 
 import ru.isys.trainings.task4.figure.Figure;
-import ru.isys.trainings.task4.figure.triangle.Triangle;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 
 public class Rectangle
 implements Figure, Comparable <Rectangle> {
